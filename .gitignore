@@ -1,0 +1,4 @@
+*.exe
+*.ini
+*.lua_globals
+build
